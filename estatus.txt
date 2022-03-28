@@ -1,0 +1,6 @@
+Daniel tiene estatus excelente.
+Jose tiene estatus excelente.
+Kevin tiene estatus malo.
+Richard tiene estatus excelente.
+Jacob tiene estatus excelente.
+Shawn tiene estatus excelente.
