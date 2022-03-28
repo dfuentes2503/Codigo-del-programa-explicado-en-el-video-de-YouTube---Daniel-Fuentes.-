@@ -1,0 +1,6 @@
+Daniel,3,25
+Jose,5,40
+Kevin,10,19
+Richard,4,21
+Jacob,3,25
+Shawn,5,32
